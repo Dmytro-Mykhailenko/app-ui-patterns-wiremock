@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ee74905f-3a66-4312-b282-38b70699936b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browsers.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/tld/appuipatterns/api/ApiClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/tld/appuipatterns/dto/LoginDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/tld/appuipatterns/dto/OrderDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/tld/appuipatterns/ui/component/ComponentWIthMockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/tld/appuipatterns/ui/e2e/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/tld/appuipatterns/ui/e2e/LoginEndToEndTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/tld/appuipatterns/ui/e2e/OrderWithAuthViaJwtTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/tld/appuipatterns/ui/e2e/RemoteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/tld/appuipatterns/ui/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/tld/appuipatterns/ui/pages/OrderPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/tld/appuipatterns/util/TestData.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2fAsiWpz7UXJKqphp5PJUjix1ws" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.LoginEndToEndTest.loginAndCheckOrder.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LoginPageTest.search.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.OrderWithAuthViaJwtTest.loginAndCheckOrder.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.OrderWithAuthViaJwtTest.loginViaJwtAndCreateOrder.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/vladimirovodenko/AquaProjects/app-ui-patterns&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tld.appuipatterns.ui" />
+      <recent name="com.tld.appuipatterns" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ComponentWIthMockTest">
+    <configuration name="ComponentWIthMockTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app-ui-patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tld.appuipatterns.ui.component.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tld.appuipatterns.ui.component" />
+      <option name="MAIN_CLASS_NAME" value="com.tld.appuipatterns.ui.component.ComponentWIthMockTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComponentWIthMockTest.loginAndCreateAnOrderThenStubWithCreatedOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app-ui-patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tld.appuipatterns.ui.component.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tld.appuipatterns.ui.component" />
+      <option name="MAIN_CLASS_NAME" value="com.tld.appuipatterns.ui.component.ComponentWIthMockTest" />
+      <option name="METHOD_NAME" value="loginAndCreateAnOrderThenStubWithCreatedOrder" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComponentWIthMockTest.loginAndCreateAnOrderWithFail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app-ui-patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tld.appuipatterns.ui.component.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tld.appuipatterns.ui.component" />
+      <option name="MAIN_CLASS_NAME" value="com.tld.appuipatterns.ui.component.ComponentWIthMockTest" />
+      <option name="METHOD_NAME" value="loginAndCreateAnOrderWithFail" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComponentWIthMockTest.loginAndSearchOrderByIdAndStubWithNotFoundOrderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app-ui-patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tld.appuipatterns.ui.component.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tld.appuipatterns.ui.component" />
+      <option name="MAIN_CLASS_NAME" value="com.tld.appuipatterns.ui.component.ComponentWIthMockTest" />
+      <option name="METHOD_NAME" value="loginAndSearchOrderByIdAndStubWithNotFoundOrderTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComponentWIthMockTest.loginAndSearchOrderByIdAndStubWithRealOrderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app-ui-patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tld.appuipatterns.ui.e2e.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tld.appuipatterns.ui.component" />
+      <option name="MAIN_CLASS_NAME" value="com.tld.appuipatterns.ui.component.ComponentWIthMockTest" />
+      <option name="METHOD_NAME" value="loginAndSearchOrderByIdAndStubWithRealOrderTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoteTest.loginAndCheckOrder" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="app-ui-patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tld.appuipatterns.ui.e2e.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tld.appuipatterns.ui.e2e" />
+      <option name="MAIN_CLASS_NAME" value="com.tld.appuipatterns.ui.e2e.RemoteTest" />
+      <option name="METHOD_NAME" value="loginAndCheckOrder" />
+      <option name="TEST_OBJECT" value="method" />
+      <envs>
+        <env name="username" value="daniilv" />
+        <env name="password" value="p67f7aYRm2n" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.RemoteTest.loginAndCheckOrder" />
+      <item itemvalue="JUnit.ComponentWIthMockTest.loginAndCreateAnOrderWithFail" />
+      <item itemvalue="JUnit.ComponentWIthMockTest.loginAndSearchOrderByIdAndStubWithNotFoundOrderTest" />
+      <item itemvalue="JUnit.ComponentWIthMockTest" />
+      <item itemvalue="JUnit.ComponentWIthMockTest.loginAndCreateAnOrderThenStubWithCreatedOrder" />
+      <item itemvalue="JUnit.ComponentWIthMockTest.loginAndSearchOrderByIdAndStubWithRealOrderTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ComponentWIthMockTest" />
+        <item itemvalue="JUnit.ComponentWIthMockTest.loginAndSearchOrderByIdAndStubWithNotFoundOrderTest" />
+        <item itemvalue="JUnit.ComponentWIthMockTest.loginAndCreateAnOrderWithFail" />
+        <item itemvalue="JUnit.ComponentWIthMockTest.loginAndSearchOrderByIdAndStubWithRealOrderTest" />
+        <item itemvalue="JUnit.ComponentWIthMockTest.loginAndCreateAnOrderThenStubWithCreatedOrder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee74905f-3a66-4312-b282-38b70699936b" name="Changes" comment="" />
+      <created>1713255344821</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713255344821</updated>
+      <workItem from="1713255346413" duration="6795000" />
+      <workItem from="1713275785516" duration="10332000" />
+      <workItem from="1713370922747" duration="6000" />
+      <workItem from="1713595412114" duration="6000" />
+      <workItem from="1714020896259" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
