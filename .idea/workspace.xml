@@ -5,29 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee74905f-3a66-4312-b282-38b70699936b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/browsers.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/tld/appuipatterns/api/ApiClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/tld/appuipatterns/dto/LoginDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/tld/appuipatterns/dto/OrderDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/tld/appuipatterns/ui/component/ComponentWIthMockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/tld/appuipatterns/ui/e2e/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/tld/appuipatterns/ui/e2e/LoginEndToEndTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/tld/appuipatterns/ui/e2e/OrderWithAuthViaJwtTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/tld/appuipatterns/ui/e2e/RemoteTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/tld/appuipatterns/ui/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/tld/appuipatterns/ui/pages/OrderPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/tld/appuipatterns/util/TestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/31474f59-1cab-4f41-943c-3443db15f9a6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5914e14e-071e-4364-beff-33e6268f0031-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5daeea0a-c03f-4c2d-92d4-5ff73f9fc56d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6407e3fb-7c5f-46cc-94f2-64667ddf8fd9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6fd5abae-a829-4cc3-9d42-2ac8d676ce1f-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/970db213-c30d-4450-a650-f3c4a6506105-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c1d32cf5-5e94-4c57-9944-e286ef203563-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f6abbf02-3dea-4bdf-a1cb-f20040564748-attachment.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,31 +34,36 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2fAsiWpz7UXJKqphp5PJUjix1ws" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;JUnit.LoginEndToEndTest.loginAndCheckOrder.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.LoginPageTest.search.executor&quot;: &quot;Debug&quot;,
-    &quot;JUnit.OrderWithAuthViaJwtTest.loginAndCheckOrder.executor&quot;: &quot;Debug&quot;,
-    &quot;JUnit.OrderWithAuthViaJwtTest.loginViaJwtAndCreateOrder.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/vladimirovodenko/AquaProjects/app-ui-patterns&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "JUnit.ComponentWIthMockTest.executor": "Run",
+    "JUnit.LoginEndToEndTest.loginAndCheckOrder.executor": "Run",
+    "JUnit.LoginPageTest.search.executor": "Debug",
+    "JUnit.OrderWithAuthViaJwtTest.loginAndCheckOrder.executor": "Debug",
+    "JUnit.OrderWithAuthViaJwtTest.loginViaJwtAndCreateOrder.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/vladimirovodenko/AquaProjects/app-ui-patterns",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.tld.appuipatterns.ui" />
@@ -90,7 +81,12 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.tld.appuipatterns.ui.component" />
       <option name="MAIN_CLASS_NAME" value="com.tld.appuipatterns.ui.component.ComponentWIthMockTest" />
+      <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
+      <envs>
+        <env name="username" value="dmitro" />
+        <env name="password" value="pd2V7wYbfT2n" />
+      </envs>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -215,5 +211,8 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
